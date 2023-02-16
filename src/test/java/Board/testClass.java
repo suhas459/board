@@ -24,6 +24,6 @@ public class testClass extends baseClass{
 	  Reporter.log("successfully login ", true);
 	  ser.clickOnService();
 	  
-	  
+	  driver.close();
   }
 }

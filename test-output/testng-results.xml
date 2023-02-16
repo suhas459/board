@@ -5,16 +5,16 @@
       <![CDATA[successfully login ]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-02-16T23:02:17 IST" name="Default suite" finished-at="2023-02-16T23:02:42 IST" duration-ms="24799">
+  <suite started-at="2023-02-17T00:25:35 IST" name="Default suite" finished-at="2023-02-17T00:26:02 IST" duration-ms="26257">
     <groups>
     </groups>
-    <test started-at="2023-02-16T23:02:17 IST" name="Default test" finished-at="2023-02-16T23:02:42 IST" duration-ms="24799">
+    <test started-at="2023-02-17T00:25:35 IST" name="Default test" finished-at="2023-02-17T00:26:02 IST" duration-ms="26257">
       <class name="Board.testClass">
-        <test-method is-config="true" signature="StepsToLogin()[pri:0, instance:Board.testClass@478190fc]" started-at="2023-02-16T23:02:17 IST" name="StepsToLogin" finished-at="2023-02-16T23:02:31 IST" duration-ms="14309" status="PASS">
+        <test-method is-config="true" signature="StepsToLogin()[pri:0, instance:Board.testClass@478190fc]" started-at="2023-02-17T00:25:36 IST" name="StepsToLogin" finished-at="2023-02-17T00:25:51 IST" duration-ms="15936" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StepsToLogin -->
-        <test-method signature="f()[pri:0, instance:Board.testClass@478190fc]" started-at="2023-02-16T23:02:31 IST" name="f" finished-at="2023-02-16T23:02:42 IST" duration-ms="10417" status="PASS">
+        <test-method signature="f()[pri:0, instance:Board.testClass@478190fc]" started-at="2023-02-17T00:25:51 IST" name="f" finished-at="2023-02-17T00:26:02 IST" duration-ms="10232" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[successfully login ]]>
